@@ -1,3 +1,3 @@
 # bank-zbozowy-mvn
-![example workflow](https://github.com/SzramStaR/bank-zbozowy-mvn/actions/workflows/.github/workflows/ci.yml
-/badge.svg)
+![CI/CD](https://github.com/SzramStaR/bank-zbozowy-mvn/actions/workflows/ci.yml/badge.svg)
+
